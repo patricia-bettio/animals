@@ -78,3 +78,4 @@ function displayAnimal( animal ) {
 
     // append clone to list
     document.querySelector("#list tbody").appendChild( clone );
+}
